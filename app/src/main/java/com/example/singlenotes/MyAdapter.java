@@ -142,7 +142,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
         colorCode.add(R.color.color2);
         colorCode.add(R.color.color3);
         colorCode.add(R.color.color4);
-        colorCode.add(R.color.color5);
+         colorCode.add(R.color.color5);
 //        colorCode.add(R.color.color6);
 //        colorCode.add(R.color.color7);
 //        colorCode.add(R.color.color8);
